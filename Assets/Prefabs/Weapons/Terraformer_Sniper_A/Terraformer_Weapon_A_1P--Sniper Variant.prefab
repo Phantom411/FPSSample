@@ -7,6 +7,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 100050, guid: 698278fe0398cde43ba4730dc13a9f78, type: 3}
+      propertyPath: m_Name
+      value: Terraformer_Weapon_A_1P--Sniper Variant
+      objectReference: {fileID: 0}
     - target: {fileID: 400050, guid: 698278fe0398cde43ba4730dc13a9f78, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
@@ -51,21 +55,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 100050, guid: 698278fe0398cde43ba4730dc13a9f78, type: 3}
-      propertyPath: m_Name
-      value: Terraformer_Weapon_A_1P--Sniper Variant
-      objectReference: {fileID: 0}
     - target: {fileID: 11400000, guid: 698278fe0398cde43ba4730dc13a9f78, type: 3}
       propertyPath: skeletonColor.r
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 11400000, guid: 698278fe0398cde43ba4730dc13a9f78, type: 3}
-      propertyPath: skeletonColor.g
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 11400000, guid: 698278fe0398cde43ba4730dc13a9f78, type: 3}
+      propertyPath: skeletonColor.g
+      value: 0.67280006
+      objectReference: {fileID: 0}
+    - target: {fileID: 11400000, guid: 698278fe0398cde43ba4730dc13a9f78, type: 3}
       propertyPath: skeletonColor.b
-      value: 0.5687227
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 13700000, guid: 698278fe0398cde43ba4730dc13a9f78, type: 3}
       propertyPath: m_Materials.Array.data[5]
